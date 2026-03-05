@@ -1,14 +1,16 @@
 
 # 🐍 Python Learning Journey
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
-![Course](https://img.shields.io/badge/Course-CS50P-red)  
-![Institution](https://img.shields.io/badge/Harvard-CS50-darkred)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![Practice](https://img.shields.io/badge/Learning-Daily-orange)  
-![Repository](https://img.shields.io/badge/Type-Learning%20Repository-purple)  
-![Duration](https://img.shields.io/badge/Duration-45%20Days-blue)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Harvard CS50](https://img.shields.io/badge/Harvard-CS50P-A41034?style=for-the-badge&logo=harvard&logoColor=white)
+![Instructor](https://img.shields.io/badge/Instructor-David%20J.%20Malan-A41034?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-45%20Days-005288?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Type-Learning_Repo-21262D?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ----------
 
@@ -17,6 +19,8 @@
 This repository documents my journey of learning **Python** through **CS50's Introduction to Programming with Python**, a course offered by **Harvard University** and taught by **David J. Malan**.
 
 During this journey, I practiced Python concepts by writing small programs organized by topic and building mini projects along the way.
+
+> **⚠️ Academic Honesty Note:** In strict adherence to [Harvard's CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/2022/honesty/), the solutions to the official course Problem Sets have **not** been uploaded to this repository. This public repo consists solely of my personal practice code, conceptual notes, and independent mini-projects to respect the course's guidelines on academic integrity.
 
 📅 **Course Completion Time**
 
@@ -161,5 +165,6 @@ This repository serves as:
 
 Learning to program is a continuous journey.  
 This repository represents **45 days of consistent learning and practice with Python**.
+
 
 More learning and projects ahead 🚀
