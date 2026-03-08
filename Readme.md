@@ -14,6 +14,15 @@
 
 ----------
 
+# 🏆 Capstone Final Project
+
+The culmination of this 45-day journey was my CS50P Final Project. Check it out here:
+
+> 🐉 **[Pokédex CLI — Pokémon Information Explorer](https://github.com/ashishbtech/your-pokedex-repo-name)**
+> *A full-featured command-line tool that integrates with the PokeAPI to fetch, display, and save Pokémon data.*
+
+----------
+
 # 📚 About This Repository
 
 This repository documents my journey of learning **Python** through **CS50's Introduction to Programming with Python**, a course offered by **Harvard University** and taught by **David J. Malan**.
@@ -168,3 +177,4 @@ This repository represents **45 days of consistent learning and practice with Py
 
 
 More learning and projects ahead 🚀
+
